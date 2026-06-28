@@ -22,7 +22,7 @@ export function Nav() {
         <div className="nav-links">
           <Link href="/#features">Features</Link>
           <Link href="/#screens">Screens</Link>
-          <Link href="/#privacy">Privacy</Link>
+          <Link href="/privacy">Privacy</Link>
           <span className="nav-cta" aria-disabled="true">
             Coming soon
           </span>

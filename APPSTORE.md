@@ -22,7 +22,7 @@ Aether is the simplest way to jam progressive and melodic house from your phone.
 
 Build a track as a **stack of layers** — Bass, Chords, Drums, and a live Lead — each started from a curated loop and tuned with friendly controls. No timeline, no clutter: just pick a sound and play.
 
-**One synth, everywhere.** A single Vital-style wavetable engine powers Bass, Chords, and Lead. Morph the oscillator from sine to saw to square, sweep the filter, shape the envelope, and save your sound to a global library you can reuse on any layer.
+**One synth, everywhere.** A single wavetable engine powers Bass, Chords, and Lead. Morph the oscillator from sine to saw to square, sweep the filter, shape the envelope, and save your sound to a global library you can reuse on any layer.
 
 **Play, don't program.** The Lead is performed live on a scale-locked pad grid — every pad is in key, so there are no wrong notes. Hold several pads for chords, slide for glissando, and ride the one-finger filter-morph ribbon.
 

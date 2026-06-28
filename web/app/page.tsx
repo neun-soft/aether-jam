@@ -15,7 +15,7 @@ export default function Home() {
           </h1>
           <p className="lede">
             Build a track as a stack of layers — bass, chords, drums and a live
-            lead — each shaped by one Vital-style wavetable synth. No timeline,
+            lead — each shaped by one wavetable synth. No timeline,
             no clutter. Just pick a sound and play.
           </p>
           <div className="cta-row">
@@ -83,7 +83,7 @@ export default function Home() {
               <div className="dot bass">≋</div>
               <h3>One synth, everywhere</h3>
               <p>
-                A single Vital-style wavetable engine powers bass, chords and
+                A single wavetable engine powers bass, chords and
                 lead. Morph sine to saw to square, sweep the filter, shape the
                 envelope, and save to a global sound library.
               </p>
@@ -164,24 +164,6 @@ export default function Home() {
               </div>
             ))}
           </div>
-        </div>
-      </section>
-
-      {/* Privacy band */}
-      <section id="privacy" className="section">
-        <div className="container privacy-band">
-          <div className="kicker" style={{ color: "var(--drums)" }}>
-            Privacy
-          </div>
-          <div className="big">Aether collects no data. None.</div>
-          <p style={{ color: "var(--text-muted)" }}>
-            No accounts. No analytics. No tracking. No network calls. Your jams
-            and recordings live on your device and only go somewhere else if you
-            choose to export them.
-          </p>
-          <p>
-            <a href="/privacy">Read the full privacy policy →</a>
-          </p>
         </div>
       </section>
 
