@@ -1,0 +1,1 @@
+First release. Stack-based jamming, a shared wavetable synth, scale-locked multitouch lead pads, an attachable shimmer reverb, per-track mixing, tempo control, and built-in recording.

@@ -4,3 +4,14 @@ build/
 xcuserdata/
 DerivedData/
 .gstack/
+
+# Fastlane
+build-fastlane/
+build-archive/
+fastlane/.env
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/test_output/
+*.p8
+*.ipa
+*.dSYM.zip

@@ -1,0 +1,6 @@
+app_identifier("app.neun.aether")
+apple_id("jay.dee.force@gmail.com")
+team_id("7LAGLNXS6L") # Apple Developer Program team (Diego Ponciano)
+
+# Note: with App Store Connect API key auth (see Fastfile), team IDs are
+# optional — the key already scopes to the right team. Kept here for clarity.
