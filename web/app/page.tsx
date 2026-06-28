@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { Nav, Footer, APP_STORE_URL } from "./components";
+import { Nav, Footer } from "./components";
 
 export default function Home() {
   return (
@@ -19,9 +19,9 @@ export default function Home() {
             no clutter. Just pick a sound and play.
           </p>
           <div className="cta-row">
-            <a href={APP_STORE_URL} className="btn btn-primary">
-              Download on the App Store
-            </a>
+            <span className="btn btn-primary" aria-disabled="true">
+              Coming soon to the App Store
+            </span>
             <a href="#features" className="btn btn-ghost">
               See how it works
             </a>
@@ -194,9 +194,9 @@ export default function Home() {
               Aether — Melodic Jam is a one-time download. No subscription, no
               sign-up.
             </p>
-            <a href={APP_STORE_URL} className="btn btn-primary">
-              Download on the App Store
-            </a>
+            <span className="btn btn-primary" aria-disabled="true">
+              Coming soon to the App Store
+            </span>
           </div>
         </div>
       </section>

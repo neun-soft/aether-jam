@@ -23,9 +23,9 @@ export function Nav() {
           <Link href="/#features">Features</Link>
           <Link href="/#screens">Screens</Link>
           <Link href="/#privacy">Privacy</Link>
-          <a href={APP_STORE_URL} className="nav-cta">
-            Get the app
-          </a>
+          <span className="nav-cta" aria-disabled="true">
+            Coming soon
+          </span>
         </div>
       </div>
     </nav>
